@@ -1,0 +1,10 @@
+C:\Users\rbnra\Documents\GitHub\ASP.Net\aspnetcoreapp\bin\MCD\Debug\netcoreapp2.0\aspnetcoreapp.deps.json
+C:\Users\rbnra\Documents\GitHub\ASP.Net\aspnetcoreapp\bin\MCD\Debug\netcoreapp2.0\aspnetcoreapp.runtimeconfig.json
+C:\Users\rbnra\Documents\GitHub\ASP.Net\aspnetcoreapp\bin\MCD\Debug\netcoreapp2.0\aspnetcoreapp.runtimeconfig.dev.json
+C:\Users\rbnra\Documents\GitHub\ASP.Net\aspnetcoreapp\bin\MCD\Debug\netcoreapp2.0\aspnetcoreapp.dll
+C:\Users\rbnra\Documents\GitHub\ASP.Net\aspnetcoreapp\bin\MCD\Debug\netcoreapp2.0\aspnetcoreapp.pdb
+C:\Users\rbnra\Documents\GitHub\ASP.Net\aspnetcoreapp\obj\MCD\Debug\netcoreapp2.0\aspnetcoreapp.csproj.CoreCompileInputs.cache
+C:\Users\rbnra\Documents\GitHub\ASP.Net\aspnetcoreapp\obj\MCD\Debug\netcoreapp2.0\aspnetcoreapp.AssemblyInfoInputs.cache
+C:\Users\rbnra\Documents\GitHub\ASP.Net\aspnetcoreapp\obj\MCD\Debug\netcoreapp2.0\aspnetcoreapp.AssemblyInfo.cs
+C:\Users\rbnra\Documents\GitHub\ASP.Net\aspnetcoreapp\obj\MCD\Debug\netcoreapp2.0\aspnetcoreapp.dll
+C:\Users\rbnra\Documents\GitHub\ASP.Net\aspnetcoreapp\obj\MCD\Debug\netcoreapp2.0\aspnetcoreapp.pdb
