@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{76B5FA13-32D2-4958-8791-57DD98A7FCF0}|">
+  <MonoDevelop.Ide.ItemProperties.MVCMovies.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVCMovies/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="MVCMovies/Controllers/HelloWorldController.cs" Line="19" Column="10" />
+      <File FileName="MVCMovies/App_Start/RouteConfig.cs" Line="20" Column="17" />
+      <File FileName="MVCMovies/Views/HelloWorld/Index.cshtml" Line="6" Column="29" />
+      <File FileName="MVCMovies/Views/Home/About.cshtml" Line="10" Column="38" />
+      <File FileName="MVCMovies/Views/Shared/_Layout.cshtml" Line="6" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MVCMovies PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
