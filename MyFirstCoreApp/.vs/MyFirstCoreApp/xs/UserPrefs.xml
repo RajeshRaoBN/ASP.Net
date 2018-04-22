@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{1082CF37-AA96-4375-BF6A-4511D85FA3F0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstCoreApp/Views/Employee/Index.cshtml">
+    <Files>
+      <File FileName="MyFirstCoreApp/Program.cs" Line="17" Column="1" />
+      <File FileName="MyFirstCoreApp/Startup.cs" Line="25" Column="14" />
+      <File FileName="MyFirstCoreApp/wwwroot/home.html" Line="8" Column="49" />
+      <File FileName="MyFirstCoreApp/wwwroot/index.html" Line="8" Column="31" />
+      <File FileName="MyFirstCoreApp/Controllers/EmployeeController.cs" Line="20" Column="24" />
+      <File FileName="MyFirstCoreApp/Views/Employee/Index.cshtml" Line="8" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MyFirstCoreApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

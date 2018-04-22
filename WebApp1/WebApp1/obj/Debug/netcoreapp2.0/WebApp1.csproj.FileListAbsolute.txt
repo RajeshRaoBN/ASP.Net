@@ -1,0 +1,11 @@
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebApp1/WebApp1/bin/Debug/netcoreapp2.0/WebApp1.deps.json
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebApp1/WebApp1/bin/Debug/netcoreapp2.0/WebApp1.runtimeconfig.json
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebApp1/WebApp1/bin/Debug/netcoreapp2.0/WebApp1.runtimeconfig.dev.json
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebApp1/WebApp1/bin/Debug/netcoreapp2.0/WebApp1.dll
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebApp1/WebApp1/bin/Debug/netcoreapp2.0/WebApp1.pdb
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebApp1/WebApp1/obj/Debug/netcoreapp2.0/WebApp1.csprojResolveAssemblyReference.cache
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebApp1/WebApp1/obj/Debug/netcoreapp2.0/WebApp1.csproj.CoreCompileInputs.cache
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebApp1/WebApp1/obj/Debug/netcoreapp2.0/WebApp1.AssemblyInfoInputs.cache
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebApp1/WebApp1/obj/Debug/netcoreapp2.0/WebApp1.AssemblyInfo.cs
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebApp1/WebApp1/obj/Debug/netcoreapp2.0/WebApp1.dll
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebApp1/WebApp1/obj/Debug/netcoreapp2.0/WebApp1.pdb

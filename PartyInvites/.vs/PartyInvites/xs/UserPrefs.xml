@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{D1602EA3-16B9-4D49-BFB5-9BFF9C855E86}|">
   <MonoDevelop.Ide.ItemProperties.PartyInvites.Tests FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PartyInvites/Views/RsvpForm.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PartyInvites/Views/Home/MyView.cshtml">
     <Files>
       <File FileName="PartyInvites/Controllers/HomeController.cs" Line="34" Column="27" />
       <File FileName="PartyInvites/Views/Home/Index.cshtml" Line="18" Column="53" />
       <File FileName="PartyInvites/Models/GuestResponse.cs" Line="11" Column="10" />
       <File FileName="PartyInvites/Views/RsvpForm.cshtml" Line="29" Column="14" />
+      <File FileName="PartyInvites/Views/Home/MyView.cshtml" Line="11" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

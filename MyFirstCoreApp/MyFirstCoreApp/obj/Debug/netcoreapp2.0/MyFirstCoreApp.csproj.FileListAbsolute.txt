@@ -1,0 +1,10 @@
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/MyFirstCoreApp/MyFirstCoreApp/bin/Debug/netcoreapp2.0/MyFirstCoreApp.deps.json
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/MyFirstCoreApp/MyFirstCoreApp/bin/Debug/netcoreapp2.0/MyFirstCoreApp.runtimeconfig.json
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/MyFirstCoreApp/MyFirstCoreApp/bin/Debug/netcoreapp2.0/MyFirstCoreApp.runtimeconfig.dev.json
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/MyFirstCoreApp/MyFirstCoreApp/bin/Debug/netcoreapp2.0/MyFirstCoreApp.dll
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/MyFirstCoreApp/MyFirstCoreApp/bin/Debug/netcoreapp2.0/MyFirstCoreApp.pdb
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/MyFirstCoreApp/MyFirstCoreApp/obj/Debug/netcoreapp2.0/MyFirstCoreApp.csproj.CoreCompileInputs.cache
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/MyFirstCoreApp/MyFirstCoreApp/obj/Debug/netcoreapp2.0/MyFirstCoreApp.AssemblyInfoInputs.cache
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/MyFirstCoreApp/MyFirstCoreApp/obj/Debug/netcoreapp2.0/MyFirstCoreApp.AssemblyInfo.cs
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/MyFirstCoreApp/MyFirstCoreApp/obj/Debug/netcoreapp2.0/MyFirstCoreApp.dll
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/MyFirstCoreApp/MyFirstCoreApp/obj/Debug/netcoreapp2.0/MyFirstCoreApp.pdb
