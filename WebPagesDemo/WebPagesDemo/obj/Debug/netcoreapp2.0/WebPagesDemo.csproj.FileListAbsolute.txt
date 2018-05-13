@@ -1,0 +1,11 @@
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebPagesDemo/WebPagesDemo/bin/Debug/netcoreapp2.0/WebPagesDemo.deps.json
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebPagesDemo/WebPagesDemo/bin/Debug/netcoreapp2.0/WebPagesDemo.runtimeconfig.json
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebPagesDemo/WebPagesDemo/bin/Debug/netcoreapp2.0/WebPagesDemo.runtimeconfig.dev.json
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebPagesDemo/WebPagesDemo/bin/Debug/netcoreapp2.0/WebPagesDemo.dll
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebPagesDemo/WebPagesDemo/bin/Debug/netcoreapp2.0/WebPagesDemo.pdb
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebPagesDemo/WebPagesDemo/obj/Debug/netcoreapp2.0/WebPagesDemo.csprojResolveAssemblyReference.cache
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebPagesDemo/WebPagesDemo/obj/Debug/netcoreapp2.0/WebPagesDemo.csproj.CoreCompileInputs.cache
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebPagesDemo/WebPagesDemo/obj/Debug/netcoreapp2.0/WebPagesDemo.AssemblyInfoInputs.cache
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebPagesDemo/WebPagesDemo/obj/Debug/netcoreapp2.0/WebPagesDemo.AssemblyInfo.cs
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebPagesDemo/WebPagesDemo/obj/Debug/netcoreapp2.0/WebPagesDemo.dll
+/Users/rajeshnarayanarao/Documents/GitHub/ASP.Net/WebPagesDemo/WebPagesDemo/obj/Debug/netcoreapp2.0/WebPagesDemo.pdb

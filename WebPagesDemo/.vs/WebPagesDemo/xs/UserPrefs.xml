@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D261BA75-783F-4939-95E5-BC3F5690F76F}|Default">
+  <MonoDevelop.Ide.ItemProperties.WebPagesDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebPagesDemo/Pages/HelloWorld.html">
+    <Files>
+      <File FileName="WebPagesDemo/Pages/HelloWorld.html" Line="7" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

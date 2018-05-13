@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2C2340FF-A67D-4AC2-8050-BEAC6C826478}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApplication/styles.css">
+    <Files>
+      <File FileName="TestApplication/styles.css" Line="5" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestApplication PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
